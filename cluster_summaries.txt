@@ -1,0 +1,835 @@
+GLOBAL CLUSTERING STATISTICS
+================================================================================
+total_papers: 229
+avg_cluster_size: 22.9
+cluster_size_std: 10.765221781273251
+
+================================================================================
+# CLUSTER_0
+Number of papers: 21 (9.2% of total)
+
+## Cohesion Metrics
+mean_distance: 0.957
+std_distance: 0.018
+max_distance: 0.978
+
+## Top Terms (with weights)
+- plenoptic: 0.070
+- light: 0.051
+- samples: 0.045
+- images: 0.042
+- plenoptic sensing: 0.041
+- image: 0.038
+- quantization: 0.037
+- dimensional: 0.036
+- using: 0.035
+- sensing: 0.034
+- imaging: 0.034
+- pet: 0.032
+- different: 0.032
+- sensor: 0.032
+- method: 0.031
+
+## Top Subjects
+- computer science: 10 papers
+- computer imaging, vision, pattern recognition and graphics: 6 papers
+- image processing and computer vision: 5 papers
+- signal, image and speech processing: 5 papers
+- computer vision: 5 papers
+- image processing: 5 papers
+- materials science, general: 4 papers
+- imaging techniques: 4 papers
+- technology and engineering: 4 papers
+- life sciences: 3 papers
+- special purpose and application-based systems: 3 papers
+- science, humanities and social sciences, multidisciplinary: 3 papers
+- medicine & public health: 3 papers
+- software engineering/programming and operating systems: 2 papers
+- logics and meanings of programs: 2 papers
+
+## Statistics
+Average abstract length: 1363 characters
+Total unique subjects: 87
+Subject diversity index: 0.569
+
+Source distribution:
+- Springer: 21 papers
+
+## Representative Papers (closest to centroid)
+
+Title: Plenoptic Sensing Systems
+Distance to centroid: 0.918
+Source: Springer
+Subjects: computer science, image processing and computer vision, computer imaging, vision, pattern recognition and graphics, signal, image and speech processing, materials science, general, computer vision, image processing, imaging techniques
+Abstract: Plenoptic sensing systems are a type of camera that can capture the multidimensional information of the light field, e.g., capture both the light rays’ intensities and directions. This allows for reconstructing the high-dimensional light fields and supporting various post-capture features such as de...
+
+Title: Plenoptic Reconstruction
+Distance to centroid: 0.922
+Source: Springer
+Subjects: computer science, image processing and computer vision, computer imaging, vision, pattern recognition and graphics, signal, image and speech processing, materials science, general, computer vision, image processing, imaging techniques
+Abstract: Empowered by advanced plenoptic sensing systems, light-field imaging becomes one of the most extensively used methods for capturing 3D views of a scene. In contrast to the traditional input to a 3D graphics system, namely, scenes consisting of pre-defined geometric primitives with different material...
+
+Title: High-Resolution Plenoptic Sensing
+Distance to centroid: 0.929
+Source: Springer
+Subjects: computer science, image processing and computer vision, computer imaging, vision, pattern recognition and graphics, signal, image and speech processing, materials science, general, computer vision, image processing, imaging techniques
+Abstract: The high-resolution plenoptic sensing system can capture light field with a high level of detail and clarity. Resolution refers to the amount of detail that can be discerned in the reconstructed image or light field. The cutting edge of high-resolution plenoptic sensing is gigapixel plenoptic sensin...
+
+Title: Two-Dimensional Reconstructed Image of a Subsurface Structure Using Continuous Scanned Photothermal Imaging
+Distance to centroid: 0.936
+Source: Springer
+Subjects: physics, optics, lasers, photonics, optical devices, measurement science and instrumentation, microwaves, rf and optical engineering, optics and photonics, photonics and optical engineering, microwaves, rf engineering and optical communications
+Abstract: This study presents the two-dimensional (2D) image of a subsurface structure reconstructed using an imaging method based on the photothermal effect. The photothermal imaging method is based on the deflection method using two lasers: pump and probe lasers. A continuous scanning technique is proposed ...
+
+Title: A two-stage HDR reconstruction pipeline for extreme dark-light RGGB images
+Distance to centroid: 0.940
+Source: Springer
+Subjects: science, humanities and social sciences, multidisciplinary, science, multidisciplinary, technology and engineering, physical sciences, life sciences, behavioral sciences and psychology, computer science
+Abstract: RGGB sensor arrays are commonly used in digital cameras and mobile photography. However, images of extreme dark-light conditions often suffer from insufficient exposure because the sensor receives insufficient light. The existing methods mainly employ U-Net variants, multi-stage camera parameter sim...
+
+================================================================================
+# CLUSTER_1
+Number of papers: 24 (10.5% of total)
+
+## Cohesion Metrics
+mean_distance: 0.958
+std_distance: 0.021
+max_distance: 0.992
+
+## Top Terms (with weights)
+- automata: 0.105
+- verification: 0.065
+- algorithms: 0.053
+- model: 0.040
+- based: 0.034
+- computational: 0.033
+- algorithm: 0.033
+- probabilistic: 0.032
+- proof: 0.030
+- round: 0.029
+- computational thinking: 0.028
+- checking: 0.027
+- distributed: 0.027
+- quantitative: 0.027
+- state: 0.027
+
+## Top Subjects
+- computer science: 18 papers
+- software engineering/programming and operating systems: 15 papers
+- software engineering: 15 papers
+- logics and meanings of programs: 14 papers
+- special purpose and application-based systems: 14 papers
+- computer science logic and foundations of programming: 14 papers
+- control structures and microprogramming: 13 papers
+- professional computing: 12 papers
+- natural language processing (nlp): 12 papers
+- programming language: 12 papers
+- artificial intelligence: 4 papers
+- physics: 2 papers
+- mathematical logic and formal languages: 2 papers
+- computer system implementation: 2 papers
+- formal languages and automata theory: 2 papers
+
+## Statistics
+Average abstract length: 941 characters
+Total unique subjects: 76
+Subject diversity index: 0.355
+
+Source distribution:
+- Springer: 24 papers
+
+## Representative Papers (closest to centroid)
+
+Title: Parameterized Verification of Round-Based Distributed Algorithms via Extended Threshold Automata
+Distance to centroid: 0.897
+Source: Springer
+Subjects: computer science, software engineering/programming and operating systems, logics and meanings of programs, special purpose and application-based systems, professional computing, control structures and microprogramming, natural language processing (nlp), software engineering, computer science logic and foundations of programming, programming language
+Abstract: Threshold automata are a computational model that has proven to be versatile in modeling threshold-based distributed algorithms and enabling their completely automatic parameterized verification. We present novel techniques for the verification of threshold automata, based on well-structured transit...
+
+Title: The Opacity of Timed Automata
+Distance to centroid: 0.919
+Source: Springer
+Subjects: computer science, software engineering/programming and operating systems, logics and meanings of programs, special purpose and application-based systems, professional computing, control structures and microprogramming, natural language processing (nlp), software engineering, computer science logic and foundations of programming, programming language
+Abstract: Opacity serves as a critical security and confidentiality property, which concerns whether an intruder can unveil a system’s secret based on structural knowledge and observed behaviors. Opacity in timed systems presents greater complexity compared to untimed systems, and it has been established that...
+
+Title: Chemical pure reaction automata in maximally parallel manner
+Distance to centroid: 0.937
+Source: Springer
+Subjects: computer science, theory of computation, artificial intelligence, computation by abstract devices, optimization, computational biology/bioinformatics, computational and systems biology
+Abstract: This work presents a new class of reaction automata, called Chemical Pure Reaction Automata (CPRA). CPRA combines characteristics of chemical reaction automata, as introduced by Okubo et al. in 2016, with those of the more recently defined pure reaction automata. Unlike standard chemical reaction au...
+
+Title: Code-Level Safety Verification for Automated Driving: A Case Study
+Distance to centroid: 0.942
+Source: Springer
+Subjects: computer science, software engineering/programming and operating systems, logics and meanings of programs, special purpose and application-based systems, professional computing, control structures and microprogramming, natural language processing (nlp), software engineering, computer science logic and foundations of programming, programming language
+Abstract: The formal safety analysis of automated driving vehicles poses unique challenges due to their dynamic operating conditions and significant complexity. This paper presents a case study of applying formal safety verification to adaptive cruise controllers. Unlike the majority of existing verification ...
+
+Title: QuAK: Quantitative Automata Kit
+Distance to centroid: 0.943
+Source: Springer
+Subjects: computer science, software engineering/programming and operating systems, mathematical logic and formal languages, logics and meanings of programs, special purpose and application-based systems, computer system implementation, control structures and microprogramming, software engineering, formal languages and automata theory, computer science logic and foundations of programming
+Abstract: System behaviors are traditionally evaluated through binary classifications of correctness, which do not suffice for properties involving quantitative aspects of systems and executions. Quantitative automata offer a more nuanced approach, mapping each execution to a real number by incorporating weig...
+
+================================================================================
+# CLUSTER_2
+Number of papers: 52 (22.7% of total)
+
+## Cohesion Metrics
+mean_distance: 0.973
+std_distance: 0.010
+max_distance: 0.994
+
+## Top Terms (with weights)
+- learning: 0.047
+- risk: 0.036
+- models: 0.035
+- model: 0.032
+- data: 0.031
+- assessment: 0.027
+- based: 0.027
+- study: 0.026
+- using: 0.026
+- methods: 0.022
+- prediction: 0.022
+- cell: 0.020
+- resilience: 0.020
+- hybrid: 0.020
+- self: 0.020
+
+## Top Subjects
+- computer science: 17 papers
+- medicine & public health: 12 papers
+- science, humanities and social sciences, multidisciplinary: 10 papers
+- technology and engineering: 10 papers
+- life sciences: 9 papers
+- science, multidisciplinary: 8 papers
+- public health: 8 papers
+- physical sciences: 7 papers
+- computer imaging, vision, pattern recognition and graphics: 7 papers
+- medicine/public health, general: 7 papers
+- humanities and social sciences: 6 papers
+- computer communication networks: 5 papers
+- computer and information systems applications: 5 papers
+- pharmacotherapy: 5 papers
+- therapeutics: 5 papers
+
+## Statistics
+Average abstract length: 1581 characters
+Total unique subjects: 150
+Subject diversity index: 0.408
+
+Source distribution:
+- Springer: 52 papers
+
+## Representative Papers (closest to centroid)
+
+Title: Research on credit risk of listed companies: a hybrid model based on TCN and DilateFormer
+Distance to centroid: 0.929
+Source: Springer
+Subjects: science, humanities and social sciences, multidisciplinary, science, multidisciplinary, technology and engineering, physical sciences, life sciences, behavioral sciences and psychology, computer science
+Abstract: The ability to assess and manage corporate credit risk enables financial institutions and investors to mitigate risk, enhance the precision of their decision-making, and adapt their strategies in a prompt and effective manner. The growing quantity of data and the increasing complexity of indicators ...
+
+Title: Lateritic Ni–Co Prospectivity Modeling in Eastern Australia Using an Enhanced Generative Adversarial Network and Positive-Unlabeled Bagging
+Distance to centroid: 0.956
+Source: Springer
+Subjects: earth sciences, mineral resources, fossil fuels (incl. carbon capture), geography, general, sustainable development, statistics for engineering, physics, computer science, chemistry and earth sciences, mathematical modeling and industrial mathematics, mineralogy, fossil fuel, geography, sustainability, statistics in engineering, physics, computer science, chemistry and earth sciences
+Abstract: The surging demand for Ni and Co, driven by the acceleration of clean energy transitions, has sparked interest in the Lachlan Orogen of New South Wales for its potential lateritic Ni–Co resources. Despite recent discoveries, a substantial knowledge gap exists in understanding the full scope of these...
+
+Title: Developing multifactorial dementia prediction models using clinical variables from cohorts in the US and Australia
+Distance to centroid: 0.957
+Source: Springer
+Subjects: medicine & public health, medicine/public health, general, psychiatry, neurosciences, behavioral sciences, pharmacotherapy, biological psychology, public health, neuroscience, behavioral neuroscience, therapeutics
+Abstract: Existing dementia prediction models using non-neuroimaging clinical measures have been limited in their ability to identify disease. This study used machine learning to re-examine the diagnostic potential of clinical measures for dementia. Data was sourced from the Australian Imaging, Biomarkers, an...
+
+Title: A multi-modal deep learning model for prediction of Ki-67 for meningiomas using pretreatment MR images
+Distance to centroid: 0.957
+Source: Springer
+Subjects: medicine & public health, medicine/public health, general, internal medicine, cancer research, human genetics, oncology, gene therapy, public health, cancer biology, medical genetics, clinical genetics
+Abstract: This study developed and validated a deep learning network using baseline magnetic resonance imaging (MRI) to predict Ki-67 status in meningioma patients. A total of 1239 patients were retrospectively recruited from three hospitals between January 2010 and December 2023, forming training, internal v...
+
+Title: Changes in Learning Outcomes of Students Participating in Problem-Based Learning for the First Time: A Case Study of a Financial Management Course
+Distance to centroid: 0.958
+Source: Springer
+Subjects: education, education, general, learning and instruction, sociology of education, educational policy and politics, international and comparative education, instructional psychology
+Abstract: The aim of this study was to explore how first-time problem-based learning (PBL) participants can improve their learning outcomes. Empirical results showed that students with higher academic performance and attendance rates significantly enhanced their critical thinking and problem-solving skills th...
+
+================================================================================
+# CLUSTER_3
+Number of papers: 21 (9.2% of total)
+
+## Cohesion Metrics
+mean_distance: 0.963
+std_distance: 0.017
+max_distance: 0.979
+
+## Top Terms (with weights)
+- technology: 0.059
+- china: 0.054
+- cancer: 0.046
+- scientific: 0.043
+- digital: 0.041
+- science: 0.038
+- world: 0.032
+- development: 0.032
+- protection: 0.032
+- chinese: 0.032
+- knowledge: 0.032
+- property: 0.032
+- society: 0.030
+- ct: 0.029
+- railway: 0.028
+
+## Top Subjects
+- computer science: 5 papers
+- law: 2 papers
+- private international law, international & foreign law, comparative law: 2 papers
+- it law, media law, intellectual property: 2 papers
+- history of china: 2 papers
+- private international law, international and foreign law, comparative law: 2 papers
+- education: 2 papers
+- education, general: 2 papers
+- assessment and testing: 2 papers
+- software engineering/programming and operating systems: 2 papers
+- logics and meanings of programs: 2 papers
+- special purpose and application-based systems: 2 papers
+- professional computing: 2 papers
+- control structures and microprogramming: 2 papers
+- natural language processing (nlp): 2 papers
+
+## Statistics
+Average abstract length: 1286 characters
+Total unique subjects: 107
+Subject diversity index: 0.799
+
+Source distribution:
+- Springer: 21 papers
+
+## Representative Papers (closest to centroid)
+
+Title: From Backwardness to a Great Tech Power, the Chinese Modernization of Science and Technology
+Distance to centroid: 0.906
+Source: Springer
+Subjects: economics, political economy/economic systems, public policy, political economy and economic systems
+Abstract: This article explores the development mechanism, growth process and key achievements of the Chinese modernization of science and technology. Over the past 70 years since the founding of the People’s Republic of China, the Chinese modernization of science and technology experienced a transformation f...
+
+Title: The Great Leap Development and Outlook of China’s Scientific and Technological Strength (2000–2035)
+Distance to centroid: 0.927
+Source: Springer
+Subjects: economics, political economy/economic systems, public policy, political economy and economic systems
+Abstract: As the ability to realize the national scientific and technological strategic goals, scientific and technological strength is not only an important part of the country’s comprehensive national strength, but also the basis for scientific and technological innovation to continuously improve the compre...
+
+Title: Cancer-on-chip: a breakthrough organ-on-a-chip technology in cancer cell modeling
+Distance to centroid: 0.950
+Source: Springer
+Subjects: biomedicine, human physiology, biomedical engineering and bioengineering, imaging / radiology, computer applications, biological imaging, computer and information systems applications
+Abstract: Cancer remains one of the leading causes of death worldwide. The unclear molecular mechanisms and complex in vivo microenvironment of tumors make it difficult to clarify the nature of cancer and develop effective treatments. Therefore, the development of new methods to effectively treat cancer is ur...
+
+Title: From Science to Society: The Open Science and Innovation and Network Approach
+Distance to centroid: 0.953
+Source: Springer
+Subjects: physics, particle and nuclear physics, economic growth, investment appraisal, data structures and information theory, artificial intelligence, space sciences (including extraterrestrial physics, space exploration and astronautics), nuclear and particle physics, economic development, innovation and growth, data science, space physics, measurement science and instrumentation
+Abstract: Public investment in fundamental scientific research generates societal benefits (Mazzucato in Public Aff, 2018 [ 1 ]; Barrett et al. in Why basic science matters for economic growth. Public investment in basic research will pay for itself. International Monetary Fund Blog, 2011 [ 2 ]; Zuniga and Wu...
+
+Title: Navigating Through the Digital Workplace: Measuring Leader Digital Competence
+Distance to centroid: 0.961
+Source: Springer
+Subjects: psychology, industrial and organizational psychology, community and environmental psychology, personality and social psychology, business and management, general, social sciences, general, work and organizational psychology, community psychology, personality and differential psychology, business and management, society
+Abstract: In a modern digital workplace, leaders must have the necessary skills to lead employees virtually. Despite its high practical and theoretical relevance, a consensus on crucial digital competencies for virtual leaders is lacking, hindering a systematic exploration of the leader’s role in facilitating...
+
+================================================================================
+# CLUSTER_4
+Number of papers: 19 (8.3% of total)
+
+## Cohesion Metrics
+mean_distance: 0.936
+std_distance: 0.052
+max_distance: 1.000
+
+## Top Terms (with weights)
+- ai: 0.195
+- healthcare: 0.095
+- intelligence: 0.066
+- systems: 0.057
+- multimodal: 0.043
+- keywords: 0.040
+- healthcare systems: 0.040
+- challenges: 0.038
+- artificial intelligence: 0.037
+- artificial: 0.036
+- explanation: 0.031
+- data: 0.031
+- dialogue: 0.030
+- segmentation: 0.029
+- cns: 0.029
+
+## Top Subjects
+- computer science: 11 papers
+- software engineering/programming and operating systems: 9 papers
+- special purpose and application-based systems: 9 papers
+- software engineering: 9 papers
+- artificial intelligence: 8 papers
+- logics and meanings of programs: 7 papers
+- computer system implementation: 7 papers
+- computer science logic and foundations of programming: 7 papers
+- medicine & public health: 3 papers
+- natural language processing (nlp): 2 papers
+- control structures and microprogramming: 2 papers
+- computer communication networks: 2 papers
+- biomedicine: 2 papers
+- oncology: 2 papers
+- biomedical research: 2 papers
+
+## Statistics
+Average abstract length: 1354 characters
+Total unique subjects: 78
+Subject diversity index: 0.538
+
+Source distribution:
+- Springer: 19 papers
+
+## Representative Papers (closest to centroid)
+
+Title: Challenges for AI in Healthcare Systems
+Distance to centroid: 0.846
+Source: Springer
+Subjects: computer science, logics and meanings of programs, software engineering/programming and operating systems, special purpose and application-based systems, computer system implementation, artificial intelligence, computer science logic and foundations of programming, software engineering
+Abstract: This paper overviews the challenges of using artificial intelligence (AI) methods when building healthcare systems, as discussed at the AIsola Conference in 2023. It focuses on the topics (i) medical data, (ii) decision support, (iii) software engineering for AI-based health systems, (iv) regulatory...
+
+Title: Future Opportunities for Systematic AI Support in Healthcare
+Distance to centroid: 0.846
+Source: Springer
+Subjects: computer science, logics and meanings of programs, software engineering/programming and operating systems, special purpose and application-based systems, computer system implementation, artificial intelligence, computer science logic and foundations of programming, software engineering
+Abstract: Artificial Intelligence (AI) holds transformative potential to revolutionize healthcare delivery and outcomes. However, the literature suggests that focusing solely on AI algorithms leads to low adoption rates. AI needs to be introduced systematically into healthcare. This paper builds on this appro...
+
+Title: Model Driven Development for AI-Based Healthcare Systems: A Review
+Distance to centroid: 0.861
+Source: Springer
+Subjects: computer science, logics and meanings of programs, software engineering/programming and operating systems, special purpose and application-based systems, computer system implementation, artificial intelligence, computer science logic and foundations of programming, software engineering
+Abstract: We review our experience with integrating Artificial Intelligence (AI) into healthcare systems following the Model-Driven Development (MDD) approach. At a time when AI has the potential to instigate a paradigm shift in the health sector, better integrating healthcare experts in the development of th...
+
+Title: Intersymbolic AI
+Distance to centroid: 0.868
+Source: Springer
+Subjects: computer science, software engineering/programming and operating systems, mathematical logic and formal languages, logics and meanings of programs, special purpose and application-based systems, computer system implementation, control structures and microprogramming, software engineering, formal languages and automata theory, computer science logic and foundations of programming
+Abstract: This perspective piece calls for the study of the new field of Intersymbolic AI , by which we mean the combination of symbolic AI , whose building blocks have inherent significance/meaning, with subsymbolic AI , whose entirety creates significance/effect despite the fact that individual building blo...
+
+Title: The Impact of Artificial Intelligence on Human Sexuality: A Five-Year Literature Review 2020–2024
+Distance to centroid: 0.892
+Source: Springer
+Subjects: medicine & public health, urology, endocrinology
+Abstract: Purpose of Review Millions of people now use generative artificial intelligence (GenAI) tools in their daily lives for a variety of purposes, including sexual ones. This narrative literature review provides the first scoping overview of current research on generative AI use in the context of sexual ...
+
+================================================================================
+# CLUSTER_5
+Number of papers: 19 (8.3% of total)
+
+## Cohesion Metrics
+mean_distance: 0.954
+std_distance: 0.016
+max_distance: 0.975
+
+## Top Terms (with weights)
+- dimensional: 0.084
+- theory: 0.056
+- time: 0.042
+- filtration: 0.040
+- solution: 0.038
+- smt: 0.037
+- controllers: 0.037
+- operator: 0.036
+- local: 0.034
+- applications: 0.031
+- functions: 0.030
+- results: 0.029
+- algorithm: 0.029
+- evaluation: 0.029
+- equation: 0.029
+
+## Top Subjects
+- computer science: 9 papers
+- software engineering/programming and operating systems: 4 papers
+- logics and meanings of programs: 4 papers
+- special purpose and application-based systems: 4 papers
+- professional computing: 4 papers
+- control structures and microprogramming: 4 papers
+- natural language processing (nlp): 4 papers
+- software engineering: 4 papers
+- computer science logic and foundations of programming: 4 papers
+- programming language: 4 papers
+- mathematics: 4 papers
+- vibration, dynamical systems, control: 3 papers
+- multibody systems and mechanical vibrations: 3 papers
+- mechanical engineering: 3 papers
+- mathematics, general: 3 papers
+
+## Statistics
+Average abstract length: 1092 characters
+Total unique subjects: 55
+Subject diversity index: 0.500
+
+Source distribution:
+- Springer: 19 papers
+
+## Representative Papers (closest to centroid)
+
+Title: A Rigorous Integrator and Global Existence for Higher-Dimensional Semilinear Parabolic PDEs via Semigroup Theory
+Distance to centroid: 0.905
+Source: Springer
+Subjects: mathematics, algorithms, computational mathematics and numerical analysis, mathematical and computational engineering, theoretical, mathematical and computational physics, mathematical and computational engineering applications
+Abstract: In this paper, we introduce a general constructive method to compute solutions of initial value problems of semilinear parabolic partial differential equations on hyper-rectangular domains via semigroup theory and computer-assisted proofs. Once a numerical candidate for the solution is obtained via ...
+
+Title: A novel method for response probability density of nonlinear stochastic dynamic systems
+Distance to centroid: 0.938
+Source: Springer
+Subjects: physics, applications of nonlinear dynamics and chaos theory, statistical physics and dynamical systems, classical mechanics, vibration, dynamical systems, control, multibody systems and mechanical vibrations, mechanical engineering, applied and technical physics
+Abstract: This paper presents a novel method for analyzing high-dimensional nonlinear stochastic dynamic systems. In particular, we attempt to obtain the solution of the Fokker–Planck–Kolmogorov (FPK) equation governing the response probability density of the system without using the FPK equation directly. Th...
+
+Title: Numerical solution of the boundary value problems for the biharmonic equations via quasiseparable representations
+Distance to centroid: 0.939
+Source: Springer
+Subjects: computer science, numeric computing, algorithms, algebra, theory of computation, numerical analysis
+Abstract: The paper incorporates new methods of numerical linear algebra for the approximation of the biharmonic equation with potential, namely, numerical solution of the Dirichlet problem for $$ \left( \frac{d}{dx}\right) ^4u(x)+c(x)u(x)=\phi (x),\quad 0<x<1. $$ d dx 4 u ( x ) + c ( x ) u ( x ) = ϕ ( x ) , ...
+
+Title: Bridging Dimensions: Confident Reachability for High-Dimensional Controllers
+Distance to centroid: 0.941
+Source: Springer
+Subjects: computer science, software engineering/programming and operating systems, logics and meanings of programs, special purpose and application-based systems, professional computing, control structures and microprogramming, natural language processing (nlp), software engineering, computer science logic and foundations of programming, programming language
+Abstract: Autonomous systems are increasingly implemented using end-to-end learning-based controllers. Such controllers make decisions that are executed on the real system, with images as one of the primary sensing modalities. Deep neural networks form a fundamental building block of such controllers. Unfortu...
+
+Title: A Local Search Algorithm for MaxSMT(LIA)
+Distance to centroid: 0.942
+Source: Springer
+Subjects: computer science, software engineering/programming and operating systems, logics and meanings of programs, special purpose and application-based systems, professional computing, control structures and microprogramming, natural language processing (nlp), software engineering, computer science logic and foundations of programming, programming language
+Abstract: MaxSAT modulo theories (MaxSMT) is an important generalization of Satisfiability modulo theories (SMT) with various applications. In this paper, we focus on MaxSMT with the background theory of Linear Integer Arithmetic, denoted as MaxSMT(LIA). We design the first local search algorithm for MaxSMT(L...
+
+================================================================================
+# CLUSTER_6
+Number of papers: 17 (7.4% of total)
+
+## Cohesion Metrics
+mean_distance: 0.958
+std_distance: 0.013
+max_distance: 0.975
+
+## Top Terms (with weights)
+- cognitive: 0.057
+- sleep: 0.047
+- networks: 0.040
+- stress: 0.038
+- population: 0.037
+- warming: 0.034
+- visual: 0.034
+- robustness: 0.034
+- dynamic: 0.033
+- positively: 0.033
+- microbiome: 0.031
+- social: 0.030
+- negatively: 0.029
+- people: 0.029
+- children: 0.029
+
+## Top Subjects
+- medicine & public health: 5 papers
+- medicine/public health, general: 5 papers
+- public health: 5 papers
+- computer science: 4 papers
+- life sciences: 3 papers
+- psychiatry: 3 papers
+- neurosciences: 3 papers
+- behavioral sciences: 3 papers
+- pharmacotherapy: 3 papers
+- biological psychology: 3 papers
+- neuroscience: 3 papers
+- behavioral neuroscience: 3 papers
+- therapeutics: 3 papers
+- computer science, general: 2 papers
+- psychology, general: 2 papers
+
+## Statistics
+Average abstract length: 1280 characters
+Total unique subjects: 87
+Subject diversity index: 0.635
+
+Source distribution:
+- Springer: 17 papers
+
+## Representative Papers (closest to centroid)
+
+Title: Cognitive and psychiatric relevance of dynamic functional connectivity states in a large (N > 10,000) children population
+Distance to centroid: 0.918
+Source: Springer
+Subjects: medicine & public health, medicine/public health, general, psychiatry, neurosciences, behavioral sciences, pharmacotherapy, biological psychology, public health, neuroscience, behavioral neuroscience, therapeutics
+Abstract: Children’s brains dynamically adapt to the stimuli from the internal state and the external environment, allowing for changes in cognitive and mental behavior. In this work, we performed a large-scale analysis of dynamic functional connectivity (DFC) in children aged 9~11 years, investigating how br...
+
+Title: Cognitive Mechanisms of Being Imitated
+Distance to centroid: 0.941
+Source: Springer
+Subjects: psychology, psychology, general, neuropsychology, clinical psychology, cognitive psychology, personality and social psychology, behavioral sciences and psychology, social psychology
+Abstract: Being mimicked (BeMim) arises when one person copies the actions or choices of another person, and several studies link BeMim to liking and affiliation. BeMim effects might occur for matching of motor actions but have also been reported for the imitation of preferences and values. In this chapter we...
+
+Title: Gut microbiome strain-sharing within isolated village social networks
+Distance to centroid: 0.952
+Source: Springer
+Subjects: science, humanities and social sciences, multidisciplinary, science, multidisciplinary, life sciences, physical sciences, technology and engineering, mathematics and computing, humanities and social sciences
+Abstract: When humans assemble into face-to-face social networks, they create an extended social environment that permits exposure to the microbiome of others, thereby shaping the composition and diversity of the microbiome at individual and population levels^ 1 – 6 . Here we use comprehensive social network ...
+
+Title: Warming of shallow temperate lakes: consequences for rotifer community composition and population dynamics
+Distance to centroid: 0.954
+Source: Springer
+Subjects: life sciences, freshwater & marine ecology, ecology, zoology, freshwater and marine ecology
+Abstract: Taxa specific responses to climate warming may shape aquatic communities, dominance patterns, biotic interactions, and related ecosystem processes and functions. As climate warming effects on smaller zooplankton are less understood than larger zooplankton, we focused on rotifers to study their respo...
+
+Title: Large and Parallel Human Sorting Networks
+Distance to centroid: 0.956
+Source: Springer
+Subjects: computer science, computer science, general, mathematics of computing, computer applications, computers and education, computer and information systems applications
+Abstract: This paper presents two innovative extensions of the classic Human Sorting Network (HSN) activity from the CS Unplugged program. First, we describe the implementation of a large-scale HSN with 50 input nodes, realized with high school students in Vienna, Austria. We detail the logistical challenges ...
+
+================================================================================
+# CLUSTER_7
+Number of papers: 10 (4.4% of total)
+
+## Cohesion Metrics
+mean_distance: 0.871
+std_distance: 0.079
+max_distance: 0.986
+
+## Top Terms (with weights)
+- quantum: 0.349
+- games: 0.095
+- circuits: 0.073
+- quantum computing: 0.063
+- entanglement: 0.060
+- computing: 0.056
+- physics: 0.052
+- quantum physics: 0.044
+- learning: 0.043
+- raising: 0.041
+- programming: 0.039
+- distillation: 0.039
+- robustness: 0.039
+- molecules: 0.036
+- gate: 0.036
+
+## Top Subjects
+- computer science: 4 papers
+- quantum information technology, spintronics: 3 papers
+- spintronics: 3 papers
+- software engineering/programming and operating systems: 2 papers
+- logics and meanings of programs: 2 papers
+- special purpose and application-based systems: 2 papers
+- professional computing: 2 papers
+- control structures and microprogramming: 2 papers
+- natural language processing (nlp): 2 papers
+- software engineering: 2 papers
+- computer science logic and foundations of programming: 2 papers
+- programming language: 2 papers
+- artificial intelligence: 2 papers
+- science, humanities and social sciences, multidisciplinary: 2 papers
+- science, multidisciplinary: 2 papers
+
+## Statistics
+Average abstract length: 1332 characters
+Total unique subjects: 44
+Subject diversity index: 0.629
+
+Source distribution:
+- Springer: 10 papers
+
+## Representative Papers (closest to centroid)
+
+Title: Defining quantum games
+Distance to centroid: 0.754
+Source: Springer
+Subjects: physics, quantum physics, quantum information technology, spintronics, nanotechnology and microengineering, spintronics, microsystems and mems
+Abstract: In this research article, we survey existing quantum physics-related games and, based on this survey, propose a definition for the concept of quantum games. We define a quantum game as any type of rule-based game that either employs the principles of quantum physics or references quantum phenomena o...
+
+Title: Quantum Programming Without the Quantum Physics
+Distance to centroid: 0.795
+Source: Springer
+Subjects: computer science, programming languages, compilers, interpreters, programming techniques, theory of computation, artificial intelligence, compilers and interpreters
+Abstract: We propose a quantum programming paradigm where all data are familiar classical data, and the only non-classical element is a random number generator that can return results with negative probability. Currently, the vast majority of quantum programming languages instead work with quantum data types ...
+
+Title: Transformer models for quantum gate set tomography
+Distance to centroid: 0.801
+Source: Springer
+Subjects: engineering, computational intelligence, quantum information technology, spintronics, artificial intelligence, spintronics
+Abstract: Quantum computation represents a promising frontier in the domain of high-performance computing, blending quantum information theory with practical applications to overcome the limitations of classical computation. This study investigates the challenges of manufacturing high-fidelity and scalable qu...
+
+Title: Advancing Quantum Computing with Formal Methods
+Distance to centroid: 0.819
+Source: Springer
+Subjects: computer science, software engineering/programming and operating systems, logics and meanings of programs, special purpose and application-based systems, professional computing, control structures and microprogramming, natural language processing (nlp), software engineering, computer science logic and foundations of programming, programming language
+Abstract: This tutorial introduces quantum computing with a focus on the applicability of formal methods in this relatively new domain. We describe quantum circuits and convey an understanding of their inherent combinatorial nature and the exponential blow-up that makes them hard to analyze. Then, we show how...
+
+Title: Long-lived entanglement of molecules in magic-wavelength optical tweezers
+Distance to centroid: 0.840
+Source: Springer
+Subjects: science, humanities and social sciences, multidisciplinary, science, multidisciplinary, life sciences, physical sciences, technology and engineering, mathematics and computing, humanities and social sciences
+Abstract: Realizing quantum control and entanglement of particles is crucial for advancing both quantum technologies and fundamental science. Substantial developments in this domain have been achieved in a variety of systems^ 1 – 5 . In this context, ultracold polar molecules offer new and unique opportunitie...
+
+================================================================================
+# CLUSTER_8
+Number of papers: 29 (12.7% of total)
+
+## Cohesion Metrics
+mean_distance: 0.967
+std_distance: 0.019
+max_distance: 0.990
+
+## Top Terms (with weights)
+- 3d: 0.071
+- data: 0.052
+- icils: 0.037
+- printing: 0.033
+- 3d printing: 0.031
+- information: 0.031
+- research: 0.030
+- content: 0.029
+- humanities: 0.029
+- news: 0.028
+- eye: 0.027
+- students: 0.026
+- study: 0.025
+- cil: 0.024
+- stem: 0.023
+
+## Top Subjects
+- computer science: 10 papers
+- education: 6 papers
+- education, general: 5 papers
+- special purpose and application-based systems: 5 papers
+- digital education and educational technology: 4 papers
+- software engineering/programming and operating systems: 4 papers
+- logics and meanings of programs: 4 papers
+- software engineering: 4 papers
+- computer science logic and foundations of programming: 4 papers
+- artificial intelligence: 4 papers
+- international and comparative education: 3 papers
+- assessment and testing: 3 papers
+- user interfaces and human computer interaction: 3 papers
+- computer system implementation: 3 papers
+- medicine & public health: 3 papers
+
+## Statistics
+Average abstract length: 1353 characters
+Total unique subjects: 115
+Subject diversity index: 0.642
+
+Source distribution:
+- Springer: 29 papers
+
+## Representative Papers (closest to centroid)
+
+Title: Publishing and Long-Term Archiving 3D Data in Humanities
+Distance to centroid: 0.916
+Source: Springer
+Subjects: computer science, computer imaging, vision, pattern recognition and graphics, information storage and retrieval, computer applications, computer and information systems applications
+Abstract: We present here the French solution for long-term archiving combined with online publication of 3D research data in the humanities. The focus is on the paradata that document the technical process involved in obtaining the 3D result. Our schema, initially limited to the fields of archaeology and cul...
+
+Title: 3D printed microneedles: revamping transdermal drug delivery systems
+Distance to centroid: 0.934
+Source: Springer
+Subjects: biomedicine, pharmaceutical sciences/technology, pharmaceutics
+Abstract: One of the advancements of the transdermal drug delivery system (TDDS) is the development of microneedles (MNs). These micron-sized needles are used for delivering various types of drugs to address the disadvantage of other transdermal techniques as well as oral drug delivery systems. MNs have high ...
+
+Title: Teaching of the subject ‘Biomolecules in Living Organisms’ using 3D printing models
+Distance to centroid: 0.936
+Source: Springer
+Subjects: computer science, computers and education, educational technology, user interfaces and human computer interaction, education, general, information systems applications (incl.internet), computer appl. in social and behavioral sciences, digital education and educational technology, education, computer and information systems applications, computer application in social and behavioral sciences
+Abstract: In recent years, 3D printing technology or 3D printing models have become a powerful educational tool used in many fields such as medicine, engineering and science. However, research on the integration of these technologies into formal educational environments and the researches examining their effe...
+
+Title: Introduction
+Distance to centroid: 0.937
+Source: Springer
+Subjects: education, education, general, international and comparative education, digital education and educational technology, assessment and testing
+Abstract: The IEA International Computer and Information Literacy Study (ICILS) investigates the capacities of young people to use information and communications technology (ICT) productively for a range of different purposes, in ways that go beyond a basic use of ICT. ICILS 2023 includes authentic computer? ...
+
+Title: Clinical application of 3D slicer reconstruction and 3D printing localization combined with neuroendoscopy technology in VPS surgery
+Distance to centroid: 0.942
+Source: Springer
+Subjects: science, humanities and social sciences, multidisciplinary, science, multidisciplinary, technology and engineering, physical sciences, life sciences, behavioral sciences and psychology, computer science
+Abstract: To explore techniques, advantages and disadvantages of 3D Slicer reconstruction and 3D printing localization technology combined with transcranial neuroendoscopy in ventriculoperitoneal shunt surgery. Retrospective analysis of clinical data of patients with hydrocephalus treated by ventriculoperiton...
+
+================================================================================
+# CLUSTER_9
+Number of papers: 17 (7.4% of total)
+
+## Cohesion Metrics
+mean_distance: 0.943
+std_distance: 0.026
+max_distance: 0.979
+
+## Top Terms (with weights)
+- programs: 0.101
+- verification: 0.071
+- polynomial: 0.071
+- ltl: 0.055
+- synthesis: 0.050
+- temporal: 0.049
+- logic: 0.049
+- sets: 0.044
+- properties: 0.043
+- temporal logic: 0.039
+- formulas: 0.038
+- mathbb: 0.038
+- problem: 0.037
+- trace: 0.035
+- barrier: 0.035
+
+## Top Subjects
+- computer science: 14 papers
+- natural language processing (nlp): 14 papers
+- software engineering/programming and operating systems: 13 papers
+- logics and meanings of programs: 13 papers
+- special purpose and application-based systems: 13 papers
+- professional computing: 13 papers
+- control structures and microprogramming: 13 papers
+- software engineering: 13 papers
+- computer science logic and foundations of programming: 13 papers
+- programming language: 13 papers
+- mathematics: 2 papers
+- mathematics, general: 2 papers
+- data structures and information theory: 1 papers
+- artificial intelligence: 1 papers
+- data mining and knowledge discovery: 1 papers
+
+## Statistics
+Average abstract length: 1314 characters
+Total unique subjects: 24
+Subject diversity index: 0.162
+
+Source distribution:
+- Springer: 17 papers
+
+## Representative Papers (closest to centroid)
+
+Title: Sound and Complete Witnesses for Template-Based Verification of LTL Properties on Polynomial Programs
+Distance to centroid: 0.866
+Source: Springer
+Subjects: computer science, software engineering/programming and operating systems, logics and meanings of programs, special purpose and application-based systems, professional computing, control structures and microprogramming, natural language processing (nlp), software engineering, computer science logic and foundations of programming, programming language
+Abstract: We study the classical problem of verifying programs with respect to formal specifications given in the linear temporal logic (LTL). We first present novel sound and complete witnesses for LTL verification over imperative programs. Our witnesses are applicable to both verification (proving) and refu...
+
+Title: Nonlinear Craig Interpolant Generation Over Unbounded Domains by Separating Semialgebraic Sets
+Distance to centroid: 0.909
+Source: Springer
+Subjects: computer science, software engineering/programming and operating systems, logics and meanings of programs, special purpose and application-based systems, professional computing, control structures and microprogramming, natural language processing (nlp), software engineering, computer science logic and foundations of programming, programming language
+Abstract: Interpolation-based techniques become popular in recent years, as they can improve the scalability of existing verification techniques due to their inherent modularity and local reasoning capabilities. Synthesizing Craig interpolants is the cornerstone of these techniques. In this paper, we investig...
+
+Title: Practical Deductive Verification of OCaml Programs
+Distance to centroid: 0.920
+Source: Springer
+Subjects: computer science, software engineering/programming and operating systems, logics and meanings of programs, special purpose and application-based systems, professional computing, control structures and microprogramming, natural language processing (nlp), software engineering, computer science logic and foundations of programming, programming language
+Abstract: In this paper, we provide a comprehensive, hands-on tutorial on how to apply deductive verification to programs written in OCaml . In particular, we show how one can use the GOSPEL specification language and the Cameleer tool to conduct mostly-automated verification on OCaml code. In our presentatio...
+
+Title: Learning Branching-Time Properties in CTL and ATL via Constraint Solving
+Distance to centroid: 0.928
+Source: Springer
+Subjects: computer science, software engineering/programming and operating systems, logics and meanings of programs, special purpose and application-based systems, professional computing, control structures and microprogramming, natural language processing (nlp), software engineering, computer science logic and foundations of programming, programming language
+Abstract: We address the problem of learning temporal properties from the branching-time behavior of systems. Existing research in this field has mostly focused on learning linear temporal properties specified using popular logics, such as Linear Temporal Logic (LTL) and Signal Temporal Logic (STL). Branching...
+
+Title: Misconceptions in Finite-Trace and Infinite-Trace Linear Temporal Logic
+Distance to centroid: 0.931
+Source: Springer
+Subjects: computer science, software engineering/programming and operating systems, logics and meanings of programs, special purpose and application-based systems, professional computing, control structures and microprogramming, natural language processing (nlp), software engineering, computer science logic and foundations of programming, programming language
+Abstract: With the growing use of temporal logics in areas ranging from robot planning to runtime verification, it is critical that users have a clear understanding of what a specification means. Toward this end, we have been developing a catalog of semantic errors and a suite of test instruments targeting va...
