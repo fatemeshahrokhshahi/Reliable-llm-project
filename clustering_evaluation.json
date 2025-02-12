@@ -1,0 +1,241 @@
+{
+  "evaluation_metrics": {
+    "silhouette": -0.019170450484504824,
+    "davies_bouldin": 6.587973855640546,
+    "calinski_harabasz": 1.3375651095201289
+  },
+  "subject_consistency": {
+    "cluster_0": [
+      [
+        "computer science",
+        10
+      ],
+      [
+        "computer imaging, vision, pattern recognition and graphics",
+        6
+      ],
+      [
+        "image processing and computer vision",
+        5
+      ],
+      [
+        "signal, image and speech processing",
+        5
+      ],
+      [
+        "computer vision",
+        5
+      ]
+    ],
+    "cluster_1": [
+      [
+        "computer science",
+        18
+      ],
+      [
+        "software engineering/programming and operating systems",
+        15
+      ],
+      [
+        "software engineering",
+        15
+      ],
+      [
+        "logics and meanings of programs",
+        14
+      ],
+      [
+        "special purpose and application-based systems",
+        14
+      ]
+    ],
+    "cluster_2": [
+      [
+        "computer science",
+        17
+      ],
+      [
+        "medicine & public health",
+        12
+      ],
+      [
+        "science, humanities and social sciences, multidisciplinary",
+        10
+      ],
+      [
+        "technology and engineering",
+        10
+      ],
+      [
+        "life sciences",
+        9
+      ]
+    ],
+    "cluster_3": [
+      [
+        "computer science",
+        5
+      ],
+      [
+        "law",
+        2
+      ],
+      [
+        "private international law, international & foreign law, comparative law",
+        2
+      ],
+      [
+        "it law, media law, intellectual property",
+        2
+      ],
+      [
+        "history of china",
+        2
+      ]
+    ],
+    "cluster_4": [
+      [
+        "computer science",
+        11
+      ],
+      [
+        "software engineering/programming and operating systems",
+        9
+      ],
+      [
+        "special purpose and application-based systems",
+        9
+      ],
+      [
+        "software engineering",
+        9
+      ],
+      [
+        "artificial intelligence",
+        8
+      ]
+    ],
+    "cluster_5": [
+      [
+        "computer science",
+        9
+      ],
+      [
+        "software engineering/programming and operating systems",
+        4
+      ],
+      [
+        "logics and meanings of programs",
+        4
+      ],
+      [
+        "special purpose and application-based systems",
+        4
+      ],
+      [
+        "professional computing",
+        4
+      ]
+    ],
+    "cluster_6": [
+      [
+        "medicine & public health",
+        5
+      ],
+      [
+        "medicine/public health, general",
+        5
+      ],
+      [
+        "public health",
+        5
+      ],
+      [
+        "computer science",
+        4
+      ],
+      [
+        "life sciences",
+        3
+      ]
+    ],
+    "cluster_7": [
+      [
+        "computer science",
+        4
+      ],
+      [
+        "quantum information technology, spintronics",
+        3
+      ],
+      [
+        "spintronics",
+        3
+      ],
+      [
+        "software engineering/programming and operating systems",
+        2
+      ],
+      [
+        "logics and meanings of programs",
+        2
+      ]
+    ],
+    "cluster_8": [
+      [
+        "computer science",
+        10
+      ],
+      [
+        "education",
+        6
+      ],
+      [
+        "education, general",
+        5
+      ],
+      [
+        "special purpose and application-based systems",
+        5
+      ],
+      [
+        "digital education and educational technology",
+        4
+      ]
+    ],
+    "cluster_9": [
+      [
+        "computer science",
+        14
+      ],
+      [
+        "natural language processing (nlp)",
+        14
+      ],
+      [
+        "software engineering/programming and operating systems",
+        13
+      ],
+      [
+        "logics and meanings of programs",
+        13
+      ],
+      [
+        "special purpose and application-based systems",
+        13
+      ]
+    ]
+  },
+  "cluster_sizes": {
+    "0": 21,
+    "1": 24,
+    "2": 52,
+    "3": 21,
+    "4": 19,
+    "5": 19,
+    "6": 17,
+    "7": 10,
+    "8": 29,
+    "9": 17
+  }
+}
